@@ -9,8 +9,8 @@ utilizo em aula a plataforma [alura] { https//wwwalura.com.br }
 ### voce pode entrar em contato comigo
 
 lohan.bilik@escola.pr.gov.br
-![]([
-](https://media.tenor.com/AiiF6q-TwoIAAAAM/50cent-fukyou.gif))
+
+![]((https://media.tenor.com/AiiF6q-TwoIAAAAM/50cent-fukyou.gif))
 
 
 
